@@ -4,7 +4,7 @@ set fenc=utf-8
 " backup
 set nobackup
 
-' swapfile
+" swapfile
 set noswapfile
 
 " autoreload
